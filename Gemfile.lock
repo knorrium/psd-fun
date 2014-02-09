@@ -1,0 +1,22 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    awesome_print (1.1.0)
+    bindata (2.0.0)
+    chunky_png (1.2.9)
+    hashie (2.0.5)
+    psd (2.0.0)
+      bindata
+      chunky_png
+      psd-enginedata (~> 1.0)
+      rake
+    psd-enginedata (1.0.0)
+      hashie (~> 2.0)
+    rake (10.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  psd
